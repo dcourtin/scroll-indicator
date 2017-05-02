@@ -1,5 +1,8 @@
-# scroll-indicator
-Yet another one Horizontal Scroll indicator with hooks, start scrolling, during scrolling, finish scrolling 
+# Scroll-indicator
+Horizontal Scroll indicator jQuery Plugin with hooks, start scrolling, during scrolling, finish scrolling 
 
 # How to use
-see the example.js file
+See the example.js file
+
+# Feedbacks
+Feedbacks are welcome
