@@ -1,8 +1,8 @@
 $(this).scrollIndicator({
-    color: '#088A85', // color of the element
+    color: '#088A85', //color of the element
     height: '5px',
     debugMode: false,
-    showIndicator: true, // you can hide the html element to only use the hooks
+    showIndicator: true, //you can hide the html element to only use the hooks
     onStartScrollDocumentHandler: function (e, debugMode) {
         if (debugMode ){
             console.info('Scroll document Started');
